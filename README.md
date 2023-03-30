@@ -55,7 +55,7 @@ Please check.
 If you like how i present and document my work  do me a favor of giving a **Star** :sparkles: to my repos  |&&| a **Follow**  :busts_in_silhouette:
 
 ## Author
-- **Nick Gitobu** - [silvernicks9@gmail.com](https://github.com/nickssilver) ~ [@_pronicks](https://twitter.com/_pronicks):Twitter
+- **Emmanuel Oppong** 
 
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
